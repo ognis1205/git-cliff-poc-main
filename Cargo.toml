@@ -1,0 +1,6 @@
+[package]
+name = "git-cliff-poc-main"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
